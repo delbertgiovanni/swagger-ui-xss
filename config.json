@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-domain.yaml",
-            "name": "XSS payload"
+            "name": "XSS payload 2"
         }
     ]
 }
