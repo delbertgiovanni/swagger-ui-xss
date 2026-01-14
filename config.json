@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-domain.yaml",
+    "url": "https://raw.githubusercontent.com/delbertgiovanni/swagger-ui-xss/refs/heads/main/xss-domain.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-domain.yaml",
+            "url": "https://raw.githubusercontent.com/delbertgiovanni/swagger-ui-xss/refs/heads/main/xss-domain.yaml",
             "name": "XSS payload 2"
         }
     ]
